@@ -16,6 +16,8 @@ I. Connect the multimeter at the output of kit..
 5. Plot the graph between displacement and voltages on the graph paper.
 
 DIAGRAM:
+
+
 <img width="347" height="610" alt="image-4" src="https://github.com/user-attachments/assets/6091b452-5ee1-4d65-a845-b36b76e473ea" />
 
 CIRCUIT DIAGRAM
